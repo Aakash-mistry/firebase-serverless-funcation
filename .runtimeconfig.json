@@ -1,0 +1,6 @@
+{
+  "someservice": {
+    "id": "THE CLIENT ID",
+    "key": "THE API KEY"
+  }
+}
